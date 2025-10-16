@@ -18,10 +18,11 @@ A modern, responsive e-commerce platform built with PHP and MySQL, designed spec
   - Order tracking
 
 - 🎨 **Modern UI/UX**
-  - Responsive design for all devices
-  - Glassmorphism design with dark theme
+  - Professional red and black color scheme
+  - Advanced glassmorphism effects with transparency
   - Smooth animations and transitions
-  - Intuitive navigation
+  - Responsive design for all devices
+  - Custom scrollbar and selection styling
 
 - 👨‍💼 **Admin Dashboard**
   - Product management
@@ -40,7 +41,17 @@ A modern, responsive e-commerce platform built with PHP and MySQL, designed spec
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **Database**: MySQL 5.7+
 - **Server**: Apache/Nginx
-- **Design**: Custom CSS with Glassmorphism
+- **Design**: Professional Red & Black Glassmorphism Theme
+- **Effects**: Backdrop filters, CSS animations, gradient text
+
+## 🎨 Design System
+
+Check out our comprehensive [Design System Documentation](DESIGN.md) for:
+- Color palette and usage guidelines
+- Glassmorphism implementation details
+- Component styling specifications
+- Animation and effect guidelines
+- Accessibility standards
 
 ## 🚀 Getting Started
 
