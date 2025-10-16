@@ -54,7 +54,7 @@ A modern, responsive e-commerce platform built with PHP and MySQL, designed spec
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/techlink-bd-ecommerce.git
+   git clone https://github.com/MuhibChy/techlink-bd-ecommerce.git
    cd techlink-bd-ecommerce
    ```
 
@@ -103,26 +103,5 @@ For any inquiries, please contact [your-email@example.com](mailto:your-email@exa
 ---
 
 <div align="center">
-  Made with ❤️ by Your Name | © 2023 TechLink Bangladesh
+  Made with ❤️ by MuhibChy | © 2025 TechLink Bangladesh
 </div>
-- Production hardening (CSRF tokens, rate limiting) - recommended next steps in README
-
-Quickstart (XAMPP on Windows)
-1. Install XAMPP and start Apache + MySQL.
-2. Copy the project folder into XAMPP htdocs: c:\xampp\htdocs\MRSecurity
-3. Create a MySQL database named `techlink_db` and import `sql/techlink_schema.sql`.
-4. Edit `config.php` to set DB credentials.
-5. Open http://localhost/MRSecurity in your browser.
-
-Recommended hosting (Bangladesh):
-- Hostinger Bangladesh
-- Exonhost
-- WebHostBD
-- DigitalOcean (for more control)
-
-Security notes
-- Change default admin credentials after first login.
-- Use HTTPS in production and secure DB credentials.
-
-License
-MIT
